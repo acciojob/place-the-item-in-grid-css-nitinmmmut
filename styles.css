@@ -3,8 +3,8 @@
     display: grid;
     height: 200px;
     width: 200px;
-    grid-template-columns: repeat(2 200px);
-    grid-template-rows: repeat(2 200px);
+    grid-template-columns: repeat(2,200px);
+    grid-template-rows: repeat(2,200px);
     background-color: rgb(255, 0, 119);
     row-gap: 14px;
     column-gap: 14px;
